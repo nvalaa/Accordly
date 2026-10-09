@@ -1,4 +1,8 @@
-/.streamlit
+**__pycache__**/
+*.pyc
+.streamlit/
 /add_search_keys.py
 /tests
-/__pycache__
+data/saved_history.json
+.env
+.DS_Store
