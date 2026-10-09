@@ -2,7 +2,7 @@
 Prep script for the config6 Streamlit app.
 
 Reads data/perfumes_final.pkl, rebuilds the fitted config6 objects exactly
-as in final_capstone_notebook.ipynb, and pickles them to
+as in the capstone notebook (not currently includd in this repo), and pickles them to
 data/config6_objects.pkl for the app to load directly. Run this once after
 any change to perfumes_final.pkl, not on every app startup.
 
